@@ -1,0 +1,2 @@
+# license-manager
+Kundenlizenzen managen
